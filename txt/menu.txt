@@ -1,0 +1,31 @@
+Burger Normal
+Tampilan normal dengan rasa yang diluar bayangan anda, dapatkan Burger Normal segera !
+35
+
+Classic Burger
+Classic Burger dengan cita rasa setengah amerika dan ekstra daging sapi menambah rasa
+38
+
+Large Burger
+Dengan super ekstra daging sapi dan keju mozarella meleleh didalamnya dan bun premium
+60
+
+Beef Only
+Ingin menikmati daging sapi tanpa bun dan sayuran? kami lengkap menyediakan terpisah
+40
+
+Cheese Burger
+Ingin menikmati daging sapi tanpa bun dan sayuran? kami lengkap menyediakan terpisah
+54
+
+Red Burger
+Warna bun yang mencolok dengan esktra daging sapi dan tambahan saus tartar
+48
+
+3 Burger
+Kurang dengan porsi kecil? kami menyediakan triple burger dengan saus mentega meleleh
+128
+
+Black Burger
+Black Burger dengan tampilan khasnya dan ekstra beef dan tambahan ekstra roasted bacon
+67
